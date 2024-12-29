@@ -1,4 +1,4 @@
-I'm Sammie-pkg 
+# Hi there 👋🏼, I'm Sammie-pkg 
 
 I'm a **Red Team Operator** focused on simulating real-world cyberattacks to strengthen security defenses.  
 
